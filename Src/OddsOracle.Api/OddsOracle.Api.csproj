@@ -18,8 +18,11 @@
       </Content>
     </ItemGroup>
 
+<<<<<<< HEAD
     <ItemGroup>
       <ProjectReference Include="..\OddsOracle.Storage\OddsOracle.Storage.csproj" />
     </ItemGroup>
 
+=======
+>>>>>>> origin/main
 </Project>
