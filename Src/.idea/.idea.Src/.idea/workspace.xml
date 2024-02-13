@@ -5,9 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66a3a443-9bbc-4dbb-b106-a8635db12c21" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassLibrary1/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OddsOracle.Api/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OddsOracleBackEnd/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OddsOracleBackEnd/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OddsOracleBackEnd/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OddsOracleBackEnd/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/ClassLibrary1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddsOracle.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OddsOracle.Api/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddsOracle.Common/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OddsOracle.Common/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddsOracle.Storage/OddsOracle.Storage.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/OddsOracle.Storage/OddsOracle.Storage.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddsOracle.Storage/obj/Debug/net7.0/OddsOracle.Storage.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OddsOracle.Storage/obj/Debug/net7.0/OddsOracle.Storage.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddsOracle.Storage/obj/Debug/net7.0/OddsOracle.Storage.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OddsOracle.Storage/obj/Debug/net7.0/OddsOracle.Storage.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddsOracle.Storage/obj/OddsOracle.Storage.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OddsOracle.Storage/obj/OddsOracle.Storage.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddsOracle.Storage/obj/OddsOracle.Storage.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OddsOracle.Storage/obj/OddsOracle.Storage.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddsOracle.Storage/obj/OddsOracle.Storage.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/OddsOracle.Storage/obj/OddsOracle.Storage.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddsOracle.Storage/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OddsOracle.Storage/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddsOracle.Storage/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OddsOracle.Storage/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddsOracle.Storage/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OddsOracle.Storage/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddsOracle.Storage/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OddsOracle.Storage/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707818616725</updated>
-      <workItem from="1707818618326" duration="1164000" />
+      <workItem from="1707818618326" duration="1593000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -96,7 +124,31 @@
       <option name="project" value="LOCAL" />
       <updated>1707819583144</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1707823181634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707823181634</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1707823200495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707823200495</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1707823208515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707823208515</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
