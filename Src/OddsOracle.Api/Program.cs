@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using OddsOracle.Storage;
+using OddsOracle.Storage.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

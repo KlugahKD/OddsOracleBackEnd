@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using OddsOracle.Storage.Entities;
 
-namespace OddsOracle.Storage;
+namespace OddsOracle.Storage.Data;
 
 public class ApplicationDbContext : DbContext
 {
