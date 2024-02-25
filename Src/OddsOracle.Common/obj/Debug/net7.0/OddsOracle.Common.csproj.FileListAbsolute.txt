@@ -1,0 +1,12 @@
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Common/bin/Debug/net7.0/OddsOracle.Common.deps.json
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Common/bin/Debug/net7.0/OddsOracle.Common.dll
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Common/bin/Debug/net7.0/OddsOracle.Common.pdb
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Common/obj/Debug/net7.0/OddsOracle.Common.csproj.AssemblyReference.cache
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Common/obj/Debug/net7.0/OddsOracle.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Common/obj/Debug/net7.0/OddsOracle.Common.AssemblyInfoInputs.cache
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Common/obj/Debug/net7.0/OddsOracle.Common.AssemblyInfo.cs
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Common/obj/Debug/net7.0/OddsOracle.Common.csproj.CoreCompileInputs.cache
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Common/obj/Debug/net7.0/OddsOracle.Common.dll
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Common/obj/Debug/net7.0/refint/OddsOracle.Common.dll
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Common/obj/Debug/net7.0/OddsOracle.Common.pdb
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Common/obj/Debug/net7.0/ref/OddsOracle.Common.dll

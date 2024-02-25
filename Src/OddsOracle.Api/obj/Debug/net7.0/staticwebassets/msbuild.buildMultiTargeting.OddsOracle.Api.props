@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/OddsOracle.Api.props" />
+</Project>

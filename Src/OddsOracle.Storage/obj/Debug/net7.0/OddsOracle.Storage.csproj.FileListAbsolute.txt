@@ -1,0 +1,14 @@
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/bin/Debug/net7.0/OddsOracle.Storage.deps.json
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/bin/Debug/net7.0/OddsOracle.Storage.runtimeconfig.json
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/bin/Debug/net7.0/OddsOracle.Storage.dll
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/bin/Debug/net7.0/OddsOracle.Storage.pdb
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/obj/Debug/net7.0/OddsOracle.Storage.csproj.AssemblyReference.cache
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/obj/Debug/net7.0/OddsOracle.Storage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/obj/Debug/net7.0/OddsOracle.Storage.AssemblyInfoInputs.cache
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/obj/Debug/net7.0/OddsOracle.Storage.AssemblyInfo.cs
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/obj/Debug/net7.0/OddsOracle.Storage.csproj.CoreCompileInputs.cache
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/obj/Debug/net7.0/OddsOracle.Storage.dll
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/obj/Debug/net7.0/refint/OddsOracle.Storage.dll
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/obj/Debug/net7.0/OddsOracle.Storage.pdb
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/obj/Debug/net7.0/OddsOracle.Storage.genruntimeconfig.cache
+/Users/danielklugah/Desktop/OddsOracleBackEnd/Src/OddsOracle.Storage/obj/Debug/net7.0/ref/OddsOracle.Storage.dll

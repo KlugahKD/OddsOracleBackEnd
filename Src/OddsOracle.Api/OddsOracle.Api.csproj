@@ -22,4 +22,8 @@
       <ProjectReference Include="..\OddsOracle.Storage\OddsOracle.Storage.csproj" />
     </ItemGroup>
     
+    <ItemGroup>
+      <Folder Include="Services\Providers\" />
+    </ItemGroup>
+    
 </Project>
